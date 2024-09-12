@@ -1,0 +1,12 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Toki Pona 2023 Usage Survey
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - name: kala Asi
+repository-code: 'https://github.com/lipu-linku/ijo/tree/main/survey/2023'
